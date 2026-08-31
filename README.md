@@ -1,4 +1,6 @@
-# Verification scripts for "Rational Torsion on Simple Genus Two Jacobians"
+# Genus2Torsion verification scripts
+
+This repository contains verification scripts related to the paper [Rational Torsion on Simple Genus Two Jacobians](http://arxiv.org/abs/2608.28543) by Jennifer S. Balakrishnan, Filip Najman, Ari Shnidman, and Andrew V. Sutherland.
 
 Every claim of the paper that rests on a computation (rather than on an
 argument given in the paper or a citation to the literature) is verified by
